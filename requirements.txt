@@ -1,0 +1,8 @@
+yfinance
+beautifulsoup4
+requests
+feedparser
+google-generativeai
+matplotlib
+mplfinance
+python-dotenv
