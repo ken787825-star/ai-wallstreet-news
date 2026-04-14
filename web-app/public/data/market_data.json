@@ -84,12 +84,12 @@
     "ドル円": {
         "symbol": "JPY=X",
         "analysis": {
-            "current_price": 158.81,
+            "current_price": 158.83,
             "prev_price": 159.68,
-            "change_value": -0.87,
-            "change_pct": -0.55,
+            "change_value": -0.85,
+            "change_pct": -0.53,
             "volume": 0,
-            "trend_summary": "前日比 -0.55% の下落",
+            "trend_summary": "前日比 -0.53% の下落",
             "technical": {
                 "rsi_14": null,
                 "macd": null,
@@ -118,19 +118,19 @@
             },
             {
                 "date": "04/14",
-                "price": 158.80599975585938
+                "price": 158.8300018310547
             }
         ]
     },
     "ゴールド": {
         "symbol": "GC=F",
         "analysis": {
-            "current_price": 4807.3,
+            "current_price": 4805.4,
             "prev_price": 4742.4,
-            "change_value": 64.9,
-            "change_pct": 1.37,
-            "volume": 40550,
-            "trend_summary": "前日比 1.37% の上昇",
+            "change_value": 63.0,
+            "change_pct": 1.33,
+            "volume": 40658,
+            "trend_summary": "前日比 1.33% の上昇",
             "technical": {
                 "rsi_14": null,
                 "macd": null,
@@ -155,18 +155,18 @@
             },
             {
                 "date": "04/14",
-                "price": 4807.2998046875
+                "price": 4805.39990234375
             }
         ]
     },
     "ビットコイン": {
         "symbol": "BTC-USD",
         "analysis": {
-            "current_price": 74611.13,
+            "current_price": 74609.56,
             "prev_price": 74484.64,
-            "change_value": 126.49,
+            "change_value": 124.92,
             "change_pct": 0.17,
-            "volume": 54557609984,
+            "volume": 54595825664,
             "trend_summary": "前日比 0.17% の上昇",
             "technical": {
                 "rsi_14": null,
@@ -196,7 +196,7 @@
             },
             {
                 "date": "04/14",
-                "price": 74611.1328125
+                "price": 74609.5625
             }
         ]
     }
