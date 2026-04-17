@@ -2,34 +2,22 @@
     "日経225": {
         "symbol": "^N225",
         "analysis": {
-            "current_price": 57877.39,
-            "prev_price": 56502.77,
-            "change_value": 1374.62,
-            "change_pct": 2.43,
+            "current_price": 58475.9,
+            "prev_price": 59518.34,
+            "change_value": -1042.44,
+            "change_pct": -1.75,
             "volume": 0,
-            "trend_summary": "前日比 2.43% の上昇",
+            "trend_summary": "前日比 -1.75% の下落",
             "technical": {
-                "rsi_14": 61.44,
-                "macd": 235.86,
-                "macd_signal": -514.97,
-                "macd_hist": 750.83,
-                "sma_5": 56701.6,
-                "sma_20": 53971.68
+                "rsi_14": 59.36,
+                "macd": 821.82,
+                "macd_signal": 30.26,
+                "macd_hist": 791.56,
+                "sma_5": 58101.73,
+                "sma_20": 54662.49
             }
         },
         "history": [
-            {
-                "date": "02/16",
-                "price": 56806.41015625
-            },
-            {
-                "date": "02/17",
-                "price": 56566.48828125
-            },
-            {
-                "date": "02/18",
-                "price": 57143.83984375
-            },
             {
                 "date": "02/19",
                 "price": 57467.828125
@@ -177,40 +165,40 @@
             {
                 "date": "04/14",
                 "price": 57877.390625
+            },
+            {
+                "date": "04/15",
+                "price": 58134.23828125
+            },
+            {
+                "date": "04/16",
+                "price": 59518.33984375
+            },
+            {
+                "date": "04/17",
+                "price": 58475.8984375
             }
         ]
     },
     "ダウ平均": {
         "symbol": "^DJI",
         "analysis": {
-            "current_price": 48218.25,
-            "prev_price": 47916.57,
-            "change_value": 301.68,
-            "change_pct": 0.63,
-            "volume": 455850000,
-            "trend_summary": "前日比 0.63% の上昇",
+            "current_price": 48578.72,
+            "prev_price": 48463.72,
+            "change_value": 115.0,
+            "change_pct": 0.24,
+            "volume": 456610000,
+            "trend_summary": "前日比 0.24% の上昇",
             "technical": {
-                "rsi_14": 60.75,
-                "macd": -122.54,
-                "macd_signal": -548.64,
-                "macd_hist": 426.1,
-                "sma_5": 47763.0,
-                "sma_20": 46588.27
+                "rsi_14": 64.56,
+                "macd": 153.72,
+                "macd_signal": -245.87,
+                "macd_hist": 399.59,
+                "sma_5": 48342.65,
+                "sma_20": 46858.95
             }
         },
         "history": [
-            {
-                "date": "02/13",
-                "price": 49500.9296875
-            },
-            {
-                "date": "02/17",
-                "price": 49533.19140625
-            },
-            {
-                "date": "02/18",
-                "price": 49662.66015625
-            },
             {
                 "date": "02/19",
                 "price": 49395.16015625
@@ -358,40 +346,40 @@
             {
                 "date": "04/13",
                 "price": 48218.25
+            },
+            {
+                "date": "04/14",
+                "price": 48535.98828125
+            },
+            {
+                "date": "04/15",
+                "price": 48463.71875
+            },
+            {
+                "date": "04/16",
+                "price": 48578.71875
             }
         ]
     },
     "ドル円": {
         "symbol": "JPY=X",
         "analysis": {
-            "current_price": 158.84,
-            "prev_price": 159.68,
-            "change_value": -0.84,
-            "change_pct": -0.53,
+            "current_price": 159.06,
+            "prev_price": 158.81,
+            "change_value": 0.25,
+            "change_pct": 0.16,
             "volume": 0,
-            "trend_summary": "前日比 -0.53% の下落",
+            "trend_summary": "前日比 0.16% の上昇",
             "technical": {
-                "rsi_14": 58.19,
-                "macd": 0.54,
-                "macd_signal": 0.75,
-                "macd_hist": -0.21,
-                "sma_5": 159.0,
-                "sma_20": 159.17
+                "rsi_14": 54.51,
+                "macd": 0.36,
+                "macd_signal": 0.55,
+                "macd_hist": -0.19,
+                "sma_5": 159.11,
+                "sma_20": 159.19
             }
         },
         "history": [
-            {
-                "date": "02/18",
-                "price": 153.1490020751953
-            },
-            {
-                "date": "02/19",
-                "price": 154.6929931640625
-            },
-            {
-                "date": "02/20",
-                "price": 155.16000366210938
-            },
             {
                 "date": "02/23",
                 "price": 154.33900451660156
@@ -538,37 +526,41 @@
             },
             {
                 "date": "04/14",
-                "price": 158.83599853515625
+                "price": 159.21400451660156
+            },
+            {
+                "date": "04/15",
+                "price": 158.79200744628906
+            },
+            {
+                "date": "04/16",
+                "price": 158.8090057373047
+            },
+            {
+                "date": "04/17",
+                "price": 159.06199645996094
             }
         ]
     },
     "ゴールド": {
         "symbol": "GC=F",
         "analysis": {
-            "current_price": 4782.0,
-            "prev_price": 4742.4,
-            "change_value": 39.6,
-            "change_pct": 0.84,
-            "volume": 43944,
-            "trend_summary": "前日比 0.84% の上昇",
+            "current_price": 4817.5,
+            "prev_price": 4785.4,
+            "change_value": 32.1,
+            "change_pct": 0.67,
+            "volume": 29689,
+            "trend_summary": "前日比 0.67% の上昇",
             "technical": {
-                "rsi_14": 53.69,
-                "macd": null,
-                "macd_signal": null,
-                "macd_hist": null,
-                "sma_5": 4765.6,
-                "sma_20": 4651.64
+                "rsi_14": 40.33,
+                "macd": -54.05,
+                "macd_signal": -105.08,
+                "macd_hist": 51.03,
+                "sma_5": 4794.06,
+                "sma_20": 4649.36
             }
         },
         "history": [
-            {
-                "date": "02/26",
-                "price": 5176.5
-            },
-            {
-                "date": "02/27",
-                "price": 5230.5
-            },
             {
                 "date": "03/02",
                 "price": 5294.39990234375
@@ -691,41 +683,41 @@
             },
             {
                 "date": "04/14",
-                "price": 4782.0
+                "price": 4825.0
+            },
+            {
+                "date": "04/15",
+                "price": 4800.0
+            },
+            {
+                "date": "04/16",
+                "price": 4785.39990234375
+            },
+            {
+                "date": "04/17",
+                "price": 4817.5
             }
         ]
     },
     "ビットコイン": {
         "symbol": "BTC-USD",
         "analysis": {
-            "current_price": 74397.38,
-            "prev_price": 74484.64,
-            "change_value": -87.27,
-            "change_pct": -0.12,
-            "volume": 54683226112,
-            "trend_summary": "前日比 -0.12% の下落",
+            "current_price": 75717.77,
+            "prev_price": 75152.13,
+            "change_value": 565.64,
+            "change_pct": 0.75,
+            "volume": 41106255872,
+            "trend_summary": "前日比 0.75% の上昇",
             "technical": {
-                "rsi_14": 60.74,
-                "macd": 967.0,
-                "macd_signal": 199.07,
-                "macd_hist": 767.94,
-                "sma_5": 73133.75,
-                "sma_20": 69493.02
+                "rsi_14": 68.87,
+                "macd": 1293.4,
+                "macd_signal": 495.71,
+                "macd_hist": 797.69,
+                "sma_5": 74868.25,
+                "sma_20": 70693.5
             }
         },
         "history": [
-            {
-                "date": "03/06",
-                "price": 68136.4921875
-            },
-            {
-                "date": "03/07",
-                "price": 67272.59375
-            },
-            {
-                "date": "03/08",
-                "price": 65969.78125
-            },
             {
                 "date": "03/09",
                 "price": 68402.3828125
@@ -872,7 +864,19 @@
             },
             {
                 "date": "04/14",
-                "price": 74397.375
+                "price": 74181.609375
+            },
+            {
+                "date": "04/15",
+                "price": 74805.078125
+            },
+            {
+                "date": "04/16",
+                "price": 75152.1328125
+            },
+            {
+                "date": "04/17",
+                "price": 75717.7734375
             }
         ]
     }
